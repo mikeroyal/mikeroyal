@@ -5,11 +5,11 @@ I'm Michael Royal , a senior software engineer, content creator, and a Self-Host
 **Topics I cover:** 
 * Programming (**Java, C/C++, C#, Python, Go, Rust, Ruby, JavaScript, Swift**)
 * Kubernetes (**OpenShift, Docker, Rancher, AKS, GKE, and Amazon EKS**)
-* Machine Learning (**Pytorch,TensorFlow, OpenCV, and Core ML**)
+* Machine Learning (**PyTorch,TensorFlow, OpenCV, and Core ML**)
 * Cloud Development (**Azure, AWS, and GCP**) 
 * Game Development (**Unreal Engine 5, Unity, Blender, Godot, Xbox, PlayStation, Nintendo Switch, and AR/VR**)
 * 3D Graphics (**Vulkan, Metal, DirectX, OpenGL, and OpenCL**) 
-* Hardware(**x86, ARM, Apple Silicon, and RISC-V**) 
+* Hardware(**x86, ARM, Apple Silicon, RISC-V, and Virtualization**) 
 * Operating Systems (**Windows, MacOS, Linux, iOS, and Android**)
 * Security (**Open Source Security, Networking, and Digital Forensics**) 
 * Self-Hosting (**HomeLab, Home Server, and Raspberry Pi's**)
