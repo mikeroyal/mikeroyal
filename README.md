@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-I'm Michael Royal , a senior software engineer, content creator, and a Self-Hosting/HomeLab enthusiast. I also create and contribute to many open source projects. I really enjoy building open source software, creating and contributing to communities, teaching others through blog/video content, and helping others via chat/forums.
+I'm Michael Royal, a senior software engineer, content creator, and a Self-Hosting/HomeLab enthusiast. I also create and contribute to many open source projects. I really enjoy building open source software, creating and contributing to communities, teaching others through blog/video content, and helping others via chat/forums.
 
 **Topics I cover:** 
 * Programming (**Java, C/C++, C#, Python, Go, Rust, Ruby, JavaScript, Swift**)
@@ -13,6 +13,7 @@ I'm Michael Royal , a senior software engineer, content creator, and a Self-Host
 * Operating Systems (**Windows, MacOS, Linux, iOS, and Android**)
 * Security (**Open Source Security, Networking, and Digital Forensics**) 
 * Self-Hosting (**HomeLab, Home Server, and Raspberry Pi's**)
+* Documentation (**Confluence, Notion, Docusaurus, MkDocs, mdBook, and Phoenix**)
 
 [![GitHub followers](https://img.shields.io/github/followers/mikeroyal?logo=GitHub&style=for-the-badge)](https://github.com/mikeroyal)
 [![GitHub Stars](https://img.shields.io/github/stars/mikeroyal?logo=github&style=for-the-badge)](https://github.com/mikeroyal) 
