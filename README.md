@@ -18,5 +18,3 @@ I'm Michael Royal, a senior software engineer, content creator, and a Self-Hosti
 [![GitHub followers](https://img.shields.io/github/followers/mikeroyal?logo=GitHub&style=for-the-badge)](https://github.com/mikeroyal)
 [![GitHub Stars](https://img.shields.io/github/stars/mikeroyal?logo=github&style=for-the-badge)](https://github.com/mikeroyal) 
 [![Twitch Status](https://img.shields.io/twitch/status/mikeroyal?color=9147FF&logo=twitch&style=for-the-badge)]()
-
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeroyal&count_private=true&show_icons=true&theme=tokyonight)
