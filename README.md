@@ -11,8 +11,8 @@ I'm Michael Royal, a senior software engineer, content creator, and a Self-Hosti
 * 3D Graphics (**Vulkan, Metal, DirectX, OpenGL, and OpenCL**) 
 * Hardware(**x86, ARM, Apple Silicon, RISC-V, and Virtualization**) 
 * Operating Systems (**Windows, MacOS, Linux, iOS, and Android**)
-* Security (**Open Source Security, Networking, Observability, eBPF, and Digital Forensics**) 
-* Self-Hosting (**HomeLab, Home Server, IoT, Smart Home, Matter Protocol, and Raspberry Pi's**)
+* Security (**SIEM, SOAR, UEBA, OSINT, Threat Intelligence, Detection & Response Types, Open Source Security, Networking, Observability, eBPF, and Digital Forensics**) 
+* Self-Hosting (**HomeLab, Home Server, Media Server, IoT, Home Automatation, and Raspberry Pi's**)
 * Documentation (**Confluence, Notion, Docusaurus, MkDocs, mdBook, and Phoenix**)
 
 [![GitHub followers](https://img.shields.io/github/followers/mikeroyal?logo=GitHub&style=for-the-badge)](https://github.com/mikeroyal)
