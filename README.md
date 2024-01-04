@@ -35,6 +35,8 @@ I'm Michael Royal, a senior software engineer, content creator, and a Self-Hosti
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=Unreal-Engine-Guide&theme=codeSTACKr)](https://github.com/Unreal-Engine-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=AWS-Guide&theme=codeSTACKr)](https://github.com/AWS-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=NixOS-Guide&theme=codeSTACKr)](https://github.com/NixOS-Guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=PipeWire-Guide&theme=codeSTACKr)](https://github.com/PipeWire-Guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=AR-VR-Guide&theme=codeSTACKr)](https://github.com/AR-VR-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=Machine-Learning-Guide&theme=codeSTACKr)](https://github.com/Machine-Learning-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=eBPF-Guide&theme=codeSTACKr)](https://github.com/eBPF-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikeroyal&repo=RISC-V-Guide&theme=codeSTACKr)](https://github.com/RISC-V-Guide)
